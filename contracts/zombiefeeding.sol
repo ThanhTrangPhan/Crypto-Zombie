@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 // SPDX-License-Identifier: MIT
+=======
+>>>>>>> fe8a77ee078bc2726c7282d4d38f37298de5086d
 pragma solidity >=0.5.0 ;
 
 import "./zombiefactory.sol";
 
+<<<<<<< HEAD
 abstract contract KittyInterface {
   function getKitty(uint256 _id) external virtual view returns (
+=======
+contract KittyInterface {
+  function getKitty(uint256 _id) external view returns (
+>>>>>>> fe8a77ee078bc2726c7282d4d38f37298de5086d
     bool isGestating,
     bool isReady,
     uint256 cooldownIndex,

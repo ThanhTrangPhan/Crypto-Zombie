@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // SPDX-License-Identifier: MIT
+=======
+>>>>>>> fe8a77ee078bc2726c7282d4d38f37298de5086d
 pragma solidity >=0.5.0;
 
 /**
